@@ -1,3 +1,5 @@
+"Group 4 Natnael Argaw, Shaikha Alghubash, Sayyed Abedin"
+
 # Constants for conversion rates
 CONVERSION_RATE_OF_AED_TO_EUR = 0.27
 CONVERSION_RATE_OF_AED_TO_GBP = 0.23
