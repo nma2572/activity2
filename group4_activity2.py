@@ -1,3 +1,17 @@
+"""Group 4 Natnael Argaw, Shaikha Alghubash, Sayyed Abedin
+Natnael did.. 
+Helper function to get valid choice input
+Main function for user interaction
+
+Shaikha did..
+Conversion functions from other currencies to AED 
+Helper function to get valid positive float input
+
+Sayyed did..
+Constant conversion rates
+Conversion functions from AED to other currencies
+"""
+
 # Constants for conversion rates
 CONVERSION_RATE_OF_AED_TO_EUR = 0.27
 CONVERSION_RATE_OF_AED_TO_GBP = 0.23
