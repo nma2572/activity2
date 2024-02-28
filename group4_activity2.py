@@ -1,13 +1,13 @@
 """Group 4 Natnael Argaw, Shaikha Alghubash, Sayyed Abedin
-Natnael did: 
+Natnael did.. 
 Helper function to get valid choice input
 Main function for user interaction
 
-Shaikha did: 
+Shaikha did..
 Conversion functions from other currencies to AED 
 Helper function to get valid positive float input
 
-Sayyed did:
+Sayyed did..
 Constant conversion rates
 Conversion functions from AED to other currencies
 """
